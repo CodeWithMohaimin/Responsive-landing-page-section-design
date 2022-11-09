@@ -1,0 +1,22 @@
+@media (max-width: 1042px) {
+  main {
+    padding: 15px;
+  }
+  .hero {
+    flex-direction: column;
+  }
+  .hero_text {
+    padding: 10px;
+    text-align: center;
+  }
+  .hero_text h1 {
+    font-size: 2rem;
+  }
+  .hero_text p {
+    font-size: 1rem;
+  }
+  footer {
+    justify-content: center;
+    margin-top: 3rem;
+  }
+}
