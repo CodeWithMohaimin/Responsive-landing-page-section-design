@@ -1,10 +1,11 @@
 # Frontend Mentor - Huddle landing page with single introductory section
+## Live Link [Click Here](https://responsive-landing-page-mohaimin.netlify.app)
+
+### This Project is basically for level up my CSS and Javascript knowledge. Where I create A Countdown-Timer project for my self with Html, CSS and Javascript Dom manipulation. It's great project for learning CSS Flex box CSS responsive design patterns and CSS media query and JavaScript Dom manipulations.
+
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
-## Welcome! 👋
-
-Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
